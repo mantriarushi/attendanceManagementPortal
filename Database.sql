@@ -1,1 +1,1 @@
-SELECT * FROM facerecognition.microsoft;
+SELECT * FROM facerecognition.student;
